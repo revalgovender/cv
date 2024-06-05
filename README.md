@@ -6,6 +6,19 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 ## 🐍 Python Experience (5 years)
 
+### Software Engineer, GForces (Automotive)
+
+*Nov 2017 - Aug 2019 (1y 10m), Hybrid*
+
+- Main project was breaking down a legacy monolithic application into Python microservices using the Strangler pattern
+  and migrating to AWS Lambda infrastructure.
+- Worked with multiple data providers like Cap HPI and Auto Trader to integrate their APIs into our products.
+- Collaborated in Agile teams on various products, including a notable Angular application project utilizing
+  Redux for online vehicle purchasing.
+- Maintained and developed new features for the legacy monolith application while adapting to changes and
+  collaborating with test engineers and DevOps.
+- Organized Developer Community of Practice sessions across multiple of regions.
+
 ### Senior Software Engineer, Wagestream (Fintech)
 
 *Feb 2024 - May 2024 (3m), Hybrid*
@@ -21,19 +34,6 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - Created detailed charts and dashboards in Grafana for monitoring application performance.
 - Cross-functional Team Collaboration: Worked with cross-functional teams, including product managers and
   designers, to design, implement, and maintain features
-
-### Software Engineer, GForces (Automotive)
-
-*Nov 2017 - Aug 2019 (1y 10m), Hybrid*
-
-- Main project was breaking down a legacy monolithic application into Python microservices using the Strangler pattern
-  and migrating to AWS Lambda infrastructure.
-- Worked with multiple data providers like Cap HPI and Auto Trader to integrate their APIs into our products.
-- Collaborated in Agile teams on various products, including a notable Angular application project utilizing
-  Redux for online vehicle purchasing.
-- Maintained and developed new features for the legacy monolith application while adapting to changes and
-  collaborating with test engineers and DevOps.
-- Organized Developer Community of Practice sessions across multiple of regions.
 
 ### Tutorial Creator, StudyStream+ (YouTube)
 
