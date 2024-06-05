@@ -98,3 +98,14 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - Conducted client meetings to gather requirements and create tailored solutions that meet their needs.
 - Designed and developed custom websites using Concrete5 or bespoke PHP for complex builds, utilizing expert knowledge
   in web-related tools and technologies
+
+### Web Developer, Quotient Technologies (Retail)
+
+*Dec 2014 - Jan 2016 (1y 2m)*
+
+- Worked as a key member of a small team, delivering high-quality web development projects for external clients
+  including SMA Baby Milk, Clover, and Tesco.
+- Managed all aspects of design and front-end development, from initial brief to nal delivery, ensuring that every
+  project met exacting standards and exceeded client expectations.
+- Led on multiple internal projects, including developing client-facing websites and blogs using bespoke solutions and
+  CMS platforms like WordPress
