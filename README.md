@@ -76,3 +76,14 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - Collaborated with stakeholders, including product owners, UX designers, and QA Engineers to ensure
   successful project delivery
 - Mentored colleagues in TDD methodologies to drive high-quality code and of client project outcomes.
+
+### Software Engineer, RMP Enterprise (Job board)
+
+*Feb 2016 - Oct 2017 (1y 8m)*
+
+- Developed new features and maintained flagship products, RateMyPlacement, RateMyApprenticeship, and
+  RMP Connect for high-profile clients such as PwC, Microsoft, Citi, Bloomberg, and Jaguar/Land Rover.
+- Worked in an Agile-Scrum development team with two-week sprints to ensure ef client delivery of requested/sold
+  features.
+- Supported legacy code and successfully migrated RateMyPlacement from Apache to Nginx as part of maintenance efforts.
+- Deployed new releases and provided support for two WordPress blogs
