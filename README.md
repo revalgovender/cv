@@ -56,8 +56,8 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - Most noticeable course is a [GCSE Computer Science Python Course](https://www.youtube.com/watch?v=lv8Tl5lBJC0&t=2s)
   created for schools and students which covers the entire GCSE Computer Science syllabus
 - The course has been shown in lessons and recommended by teachers in the UK to students as homework or exam preparation
-- This is my largest side project, it has gained of 6K subscribers, millions of views, earned revenue and helped
-  millions of software engineers and students
+- This is my largest side project, it has gained of 6K subscribers, millions of views, earned thousands of pounds in
+  revenue and helped millions of software engineers and students
 - I have also created other Python courses which have been sold exclusively to schools in the UK and South Africa
 - Working on StudyStream+ over the years has improved my communication skills, Python knowledge, mentoring ability and
   business acumen
