@@ -52,18 +52,6 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 ## 👨‍💻 PHP and JavaScript Experience (7 years)
 
-### Senior Software Engineer, Vestiaire Collective (E-commerce)
-
-*Aug 2023 - Jan 2024 (5m), Hybrid*
-
-- Implemented and optimised microservices in GO, TypeScript and PHP (Symfony)
-- Utilised tools such as Datadog, Kibana, Docker, and Kubernetes for of client monitoring and containerisation.
-- Supported and enhanced a legacy monolithic system
-- Collaborated with cross-functional teams to deliver innovative solutions aligned with business objectives,
-  contributing to streamlined CI/CD pipelines.
-- Demonstrated technical proficiency across various tools, ensuring successful completion of critical projects
-  and enhancing system performance and security.
-
 ### Senior Software Engineer, Made.com (E-commerce)
 
 *Sept 2019 - Nov 2022 (3y 2m), Hybrid*
@@ -76,6 +64,18 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - Collaborated with stakeholders, including product owners, UX designers, and QA Engineers to ensure
   successful project delivery
 - Mentored colleagues in TDD methodologies to drive high-quality code and of client project outcomes.
+
+### Senior Software Engineer, Vestiaire Collective (E-commerce)
+
+*Aug 2023 - Jan 2024 (5m), Hybrid*
+
+- Implemented and optimised microservices in GO, TypeScript and PHP (Symfony)
+- Utilised tools such as Datadog, Kibana, Docker, and Kubernetes for of client monitoring and containerisation.
+- Supported and enhanced a legacy monolithic system
+- Collaborated with cross-functional teams to deliver innovative solutions aligned with business objectives,
+  contributing to streamlined CI/CD pipelines.
+- Demonstrated technical proficiency across various tools, ensuring successful completion of critical projects
+  and enhancing system performance and security.
 
 ### Software Engineer, RMP Enterprise (Job board)
 
