@@ -81,7 +81,7 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 *Feb 2016 - Oct 2017 (1y 8m)*
 
-- Developed new features and maintained flagship products, RateMyPlacement, RateMyApprenticeship, and
+- Developed new features and maintained Laravel flagship products, RateMyPlacement, RateMyApprenticeship, and
   RMP Connect for high-profile clients such as PwC, Microsoft, Citi, Bloomberg, and Jaguar/Land Rover.
 - Worked in an Agile-Scrum development team with two-week sprints to ensure ef client delivery of requested/sold
   features.
