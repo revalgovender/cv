@@ -69,6 +69,11 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 *Aug 2023 - Jan 2024 (5m), Hybrid*
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+
 - Implemented and optimised microservices in GO, TypeScript and PHP (Symfony)
 - Utilised tools such as Datadog, Kibana, Docker, and Kubernetes for of client monitoring and containerisation.
 - Supported and enhanced a legacy monolithic system
