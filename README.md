@@ -35,7 +35,7 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
   collaborating with test engineers and DevOps.
 - Organized Developer Community of Practice sessions across multiple of regions.
 
-### Python Tutorial Creator, StudyStream+ (YouTube)
+### Tutorial Creator, StudyStream+ (YouTube)
 
 *Feb 2019 - Feb 2023 (4y), Remote*
 
@@ -46,3 +46,5 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - The course has been shown in lessons and recommended by teachers in the UK to students as homework or exam preparation
 - This is my largest side project, it has gained of 6K subscribers, millions of views, earned revenue and helped
   millions of software engineers and students
+- Working on StudyStream+ over the years has improved my communication skills, Python knowledge, mentoring ability and
+  business acumen
