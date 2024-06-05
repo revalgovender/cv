@@ -8,6 +8,11 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 ### Software Engineer, GForces (Automotive)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 *Nov 2017 - Aug 2019 (1y 10m), Hybrid*
 
 - Main project was breaking down a legacy monolithic application into Python microservices using the Strangler pattern
@@ -20,6 +25,10 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - Organized Developer Community of Practice sessions across multiple of regions.
 
 ### Senior Software Engineer, Wagestream (Fintech)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 *Feb 2024 - May 2024 (3m), Hybrid*
 
@@ -36,6 +45,9 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
   designers, to design, implement, and maintain features
 
 ### Tutorial Creator, StudyStream+ (YouTube)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 *Feb 2019 - Feb 2023 (4y), Remote*
 
@@ -54,6 +66,11 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 ### Senior Software Engineer, Made.com (E-commerce)
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 *Sept 2019 - Nov 2022 (3y 2m), Hybrid*
 
 - Key contributor of the migration of a legacy system from Magento 1 to Magento 2 (2year project) to improve
@@ -67,12 +84,12 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 ### Senior Software Engineer, Vestiaire Collective (E-commerce)
 
-*Aug 2023 - Jan 2024 (5m), Hybrid*
-
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+
+*Aug 2023 - Jan 2024 (5m), Hybrid*
 
 - Implemented and optimised microservices in GO, TypeScript and PHP (Symfony)
 - Utilised tools such as Datadog, Kibana, Docker, and Kubernetes for of client monitoring and containerisation.
@@ -84,12 +101,12 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 ### Software Engineer, RMP Enterprise (Job board)
 
-*Feb 2016 - Oct 2017 (1y 8m)*
-
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+*Feb 2016 - Oct 2017 (1y 8m)*
 
 - Developed new features and maintained Laravel flagship products, RateMyPlacement, RateMyApprenticeship, and
   RMP Connect for high-profile clients such as PwC, Microsoft, Citi, Bloomberg, and Jaguar/Land Rover.
