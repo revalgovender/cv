@@ -4,7 +4,7 @@ An experienced Software Engineer with 12+ years commercial experience. Proven tr
 clients such as Clover, Tesco, Jaguar/Land Rover, and Global Radio. Dynamic leader, team player, and owner of
 StudyStream+ software engineering YouTube channel. Outgoing personality, integrates seamlessly into any team.
 
-## 🐍 Python Work Experience
+## 🐍 Python Experience (5 years)
 
 ### Senior Software Engineer, Wagestream (Fintech)
 
@@ -34,3 +34,15 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - Maintained and developed new features for the legacy monolith application while adapting to changes and
   collaborating with test engineers and DevOps.
 - Organized Developer Community of Practice sessions across multiple of regions.
+
+### Python Tutorial Creator, StudyStream+ (YouTube)
+
+*Feb 2019 - Feb 2023 (4y), Remote*
+
+- I have created several Python courses/videos on my YouTube channel, StudyStream+
+- My channel was a source of revenue through ads and sponsorships throughout this period
+- Most noticeable course is a [GCSE Computer Science Python Course](https://www.youtube.com/watch?v=lv8Tl5lBJC0&t=2s)
+  created for schools and students
+- The course has been shown in lessons and recommended by teachers in the UK to students as homework or exam preparation
+- This is my largest side project, it has gained of 6K subscribers, millions of views, earned revenue and helped
+  millions of software engineers and students
