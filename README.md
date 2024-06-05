@@ -87,3 +87,14 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
   features.
 - Supported legacy code and successfully migrated RateMyPlacement from Apache to Nginx as part of maintenance efforts.
 - Deployed new releases and provided support for two WordPress blogs
+
+### Lead Web Developer, The Creation Lab (Digital Agency)
+
+*Nov 2011 - Nov 2014*
+
+- Led a team of web developers, providing guidance and support to ensure successful project completion.
+- Successfully managed all aspects of multiple web projects, ensuring deadlines were met and customer satisfaction was
+  achieved.
+- Conducted client meetings to gather requirements and create tailored solutions that meet their needs.
+- Designed and developed custom websites using Concrete5 or bespoke PHP for complex builds, utilizing expert knowledge
+  in web-related tools and technologies
