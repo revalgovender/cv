@@ -153,4 +153,4 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 1. [Python Projects Showcase](https://github.com/revalgovender/python-projects-showcase)
 2. [PHP Projects Showcase](https://github.com/revalgovender/php-projects-showcase)
-3. [StudyStream+](https://www.youtube.com/channel/UCrj5u3y1gT93MaMqCpO1LPg)
+3. [StudyStream+ (YouTube Channel)](https://www.youtube.com/channel/UCrj5u3y1gT93MaMqCpO1LPg)
