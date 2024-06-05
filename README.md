@@ -148,3 +148,9 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
   project met exacting standards and exceeded client expectations.
 - Led on multiple internal projects, including developing client-facing websites and blogs using bespoke solutions and
   CMS platforms like WordPress
+
+## Projects
+
+1. [Python Projects Showcase](https://github.com/revalgovender/python-projects-showcase)
+2. [PHP Projects Showcase](https://github.com/revalgovender/php-projects-showcase)
+3. [StudyStream+](https://www.youtube.com/channel/UCrj5u3y1gT93MaMqCpO1LPg)
