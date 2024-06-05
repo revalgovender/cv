@@ -101,6 +101,8 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 ### Web Developer, Quotient Technologies (Retail)
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 *Dec 2014 - Jan 2016 (1y 2m)*
 
 - Worked as a key member of a small team, delivering high-quality web development projects for external clients
