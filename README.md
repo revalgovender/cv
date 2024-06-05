@@ -46,6 +46,7 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - The course has been shown in lessons and recommended by teachers in the UK to students as homework or exam preparation
 - This is my largest side project, it has gained of 6K subscribers, millions of views, earned revenue and helped
   millions of software engineers and students
+- I have also created other Python courses which have been sold exclusively to schools in the UK and South Africa
 - Working on StudyStream+ over the years has improved my communication skills, Python knowledge, mentoring ability and
   business acumen
 
@@ -53,7 +54,7 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 
 ### Senior Software Engineer, Vestiaire Collective (E-commerce)
 
-*Aug 2023 - Jan 2024 (5m), Remote*
+*Aug 2023 - Jan 2024 (5m), Hybrid*
 
 - Implemented and optimised microservices in GO, TypeScript and PHP (Symfony)
 - Utilised tools such as Datadog, Kibana, Docker, and Kubernetes for of client monitoring and containerisation.
@@ -62,3 +63,16 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
   contributing to streamlined CI/CD pipelines.
 - Demonstrated technical proficiency across various tools, ensuring successful completion of critical projects
   and enhancing system performance and security.
+
+### Senior Software Engineer, Made.com (E-commerce)
+
+*Sept 2019 - Nov 2022 (3y 2m), Hybrid*
+
+- Key contributor of the migration of a legacy system from Magento 1 to Magento 2 (2year project) to improve
+  performance and scalability.
+- Architected and designed the system and features for the new Magento 2 platform
+- Developed robust and scalable PHP code for this complex project, utilising Dockerised software in a service
+  oriented architecture
+- Collaborated with stakeholders, including product owners, UX designers, and QA Engineers to ensure
+  successful project delivery
+- Mentored colleagues in TDD methodologies to drive high-quality code and of client project outcomes.
