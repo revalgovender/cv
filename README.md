@@ -42,9 +42,23 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - I have created several Python courses/videos on my YouTube channel, StudyStream+
 - My channel was a source of revenue through ads and sponsorships throughout this period
 - Most noticeable course is a [GCSE Computer Science Python Course](https://www.youtube.com/watch?v=lv8Tl5lBJC0&t=2s)
-  created for schools and students
+  created for schools and students which covers the entire GCSE Computer Science syllabus
 - The course has been shown in lessons and recommended by teachers in the UK to students as homework or exam preparation
 - This is my largest side project, it has gained of 6K subscribers, millions of views, earned revenue and helped
   millions of software engineers and students
 - Working on StudyStream+ over the years has improved my communication skills, Python knowledge, mentoring ability and
   business acumen
+
+## PHP and JavaScript Experience (7 years)
+
+### Senior Software Engineer, Vestiaire Collective (E-commerce)
+
+*Aug 2023 - Jan 2024 (5m), Remote*
+
+- Implemented and optimised microservices in GO, TypeScript and PHP (Symfony)
+- Utilised tools such as Datadog, Kibana, Docker, and Kubernetes for of client monitoring and containerisation.
+- Supported and enhanced a legacy monolithic system
+- Collaborated with cross-functional teams to deliver innovative solutions aligned with business objectives,
+  contributing to streamlined CI/CD pipelines.
+- Demonstrated technical proficiency across various tools, ensuring successful completion of critical projects
+  and enhancing system performance and security.
