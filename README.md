@@ -50,7 +50,7 @@ StudyStream+ software engineering YouTube channel. Outgoing personality, integra
 - Working on StudyStream+ over the years has improved my communication skills, Python knowledge, mentoring ability and
   business acumen
 
-## PHP and JavaScript Experience (7 years)
+## 👨‍💻 PHP and JavaScript Experience (7 years)
 
 ### Senior Software Engineer, Vestiaire Collective (E-commerce)
 
