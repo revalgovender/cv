@@ -11,20 +11,18 @@ Owner of StudyStream+ software engineering YouTube channel.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 *Feb 2024 - May 2024 (3m), Hybrid*
 
-- I supported a range of services, including a US-facing Python Monolith Flask API and a Vue.js Client Portal.
-- My responsibilities encompassed the development of new features and the maintenance of existing
-  functionalities across our applications.
-- Integration with Banking APIs: Worked with various banking APIs such as Treasury Prime, Silicon Valley Bank,
-  and Wells Fargo to ensure nancial transactions and services.
-- Contributed to the enhancement and optimization of our US-facing Monolith Flask API.
-- Collaborated closely with frontend engineers to ensure the API’s compatibility and efficiency with our mobile
-  applications
-- Created detailed charts and dashboards in Grafana for monitoring application performance.
-- Cross-functional Team Collaboration: Worked with cross-functional teams, including product managers and
-  designers, to design, implement, and maintain features
+- Built new feature to allow users to, create multiple savings accounts, by integrating with Treasury Prime
+- Built new feature to allow users to, close and reopen bank accounts, by integrating with KYC providers such as
+  IDI Core
+- Improved frontend performance by optimising monolith SQL queries
+- Created charts in Grafana to monitor bank account balances by integrating with bank APIs such as WellsFargo, Evolve,
+  Silicon Valley Bank and Piermont
+- Wrote scripts to sync data between Treasury Prime and Wagestream to resolve inaccuracies
+- Increased end-to-end test coverage of the US-facing API for critical endpoints
 
 ### Software Engineer, GForces (Automotive)
 
