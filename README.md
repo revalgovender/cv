@@ -15,7 +15,7 @@ Owner of StudyStream+ software engineering YouTube channel.
 
 *Feb 2024 - May 2024 (3m), Hybrid*
 
-- Built new feature to allow users to, create multiple savings accounts, by integrating with Treasury Prime
+- Built new feature to allow users to, create multiple savings accounts, by integrating with Treasury Prime bank APIs
 - Built new feature to allow users to, close and reopen bank accounts, by integrating with KYC providers such as
   IDI Core
 - Improved frontend performance by optimising monolith SQL queries
