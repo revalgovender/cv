@@ -33,14 +33,17 @@ Owner of StudyStream+ software engineering YouTube channel.
 
 *Nov 2017 - Aug 2019 (1y 10m), Hybrid*
 
-- Main project was breaking down a legacy monolithic application into Python microservices using the Strangler pattern
-  and migrating to AWS Lambda infrastructure.
-- Worked with multiple data providers like Cap HPI and Auto Trader to integrate their APIs into our products.
-- Collaborated in Agile teams on various products, including a notable Angular application project utilizing
-  Redux for online vehicle purchasing.
-- Maintained and developed new features for the legacy monolith application while adapting to changes and
-  collaborating with test engineers and DevOps.
-- Organized Developer Community of Practice sessions across multiple of regions.
+- Key contributor in migrating a legacy monolithic application, into Python microservices, using the strangler pattern
+  to migrate to AWS Lambda infrastructure.
+- Architected and developed new Python serverless microservices, to handle vehicle data, which improved performance and
+  scalability of the vehicle stock import system.
+- Developed a system to purchase vehicles online, which was a single page application written in Angular, using Redux
+  for state management.
+- Maintained the legacy vehicle import system, which processed 100's of thousands of vehicles nightly, by fixing bugs,
+  optimising queries and handling data provider changes.
+- Founded and ran, the company Developer Community of Practice, which spanned across multiple of regions.
+- Mentored mid level developers in Python, AWS Lambda and programming best practices, to ensure new projects were
+  delivered on time and to a high standard.
 
 ### Tutorial Creator, StudyStream+ (YouTube)
 
