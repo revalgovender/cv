@@ -57,7 +57,8 @@ Owner of StudyStream+ software engineering YouTube channel.
 - Most noticeable public course is
   a [GCSE Computer Science Python Course](https://www.youtube.com/watch?v=lv8Tl5lBJC0&t=2s) created for schools and
   students which covers the entire GCSE Computer Science syllabus.
-- The course has been shown in lessons and recommended by teachers in the UK to students as homework or exam preparation.
+- The course has been shown in lessons and recommended by teachers in the UK to students as homework or exam
+  preparation.
 - I have also created other Python courses which have been sold exclusively to schools in the UK and South Africa.
 - The channel has gained over 6K subscribers, millions of views, earned thousands of pounds in revenue and helped
   millions of software engineers and students.
