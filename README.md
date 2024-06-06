@@ -6,24 +6,6 @@ owner of StudyStream+ software engineering YouTube channel. Outgoing personality
 
 ## 🐍 Python Experience (5 years)
 
-### Software Engineer, GForces (Automotive)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-*Nov 2017 - Aug 2019 (1y 10m), Hybrid*
-
-- Main project was breaking down a legacy monolithic application into Python microservices using the Strangler pattern
-  and migrating to AWS Lambda infrastructure.
-- Worked with multiple data providers like Cap HPI and Auto Trader to integrate their APIs into our products.
-- Collaborated in Agile teams on various products, including a notable Angular application project utilizing
-  Redux for online vehicle purchasing.
-- Maintained and developed new features for the legacy monolith application while adapting to changes and
-  collaborating with test engineers and DevOps.
-- Organized Developer Community of Practice sessions across multiple of regions.
-
 ### Senior Software Engineer, Wagestream (Fintech)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,6 +25,24 @@ owner of StudyStream+ software engineering YouTube channel. Outgoing personality
 - Created detailed charts and dashboards in Grafana for monitoring application performance.
 - Cross-functional Team Collaboration: Worked with cross-functional teams, including product managers and
   designers, to design, implement, and maintain features
+
+### Software Engineer, GForces (Automotive)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+*Nov 2017 - Aug 2019 (1y 10m), Hybrid*
+
+- Main project was breaking down a legacy monolithic application into Python microservices using the Strangler pattern
+  and migrating to AWS Lambda infrastructure.
+- Worked with multiple data providers like Cap HPI and Auto Trader to integrate their APIs into our products.
+- Collaborated in Agile teams on various products, including a notable Angular application project utilizing
+  Redux for online vehicle purchasing.
+- Maintained and developed new features for the legacy monolith application while adapting to changes and
+  collaborating with test engineers and DevOps.
+- Organized Developer Community of Practice sessions across multiple of regions.
 
 ### Tutorial Creator, StudyStream+ (YouTube)
 
@@ -64,6 +64,23 @@ owner of StudyStream+ software engineering YouTube channel. Outgoing personality
 
 ## 👨‍💻 PHP and JavaScript Experience (7 years)
 
+### Senior Software Engineer, Vestiaire Collective (E-commerce)
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+
+*Aug 2023 - Jan 2024 (5m), Hybrid*
+
+- Implemented and optimised microservices in GO, TypeScript and PHP (Symfony)
+- Utilised tools such as Datadog, Kibana, Docker, and Kubernetes for of client monitoring and containerisation.
+- Supported and enhanced a legacy monolithic system
+- Collaborated with cross-functional teams to deliver innovative solutions aligned with business objectives,
+  contributing to streamlined CI/CD pipelines.
+- Demonstrated technical proficiency across various tools, ensuring successful completion of critical projects
+  and enhancing system performance and security.
+
 ### Senior Software Engineer, Made.com (E-commerce)
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -82,23 +99,6 @@ owner of StudyStream+ software engineering YouTube channel. Outgoing personality
   successful project delivery
 - Mentored colleagues in TDD methodologies to drive high-quality code and of client project outcomes.
 
-### Senior Software Engineer, Vestiaire Collective (E-commerce)
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-
-*Aug 2023 - Jan 2024 (5m), Hybrid*
-
-- Implemented and optimised microservices in GO, TypeScript and PHP (Symfony)
-- Utilised tools such as Datadog, Kibana, Docker, and Kubernetes for of client monitoring and containerisation.
-- Supported and enhanced a legacy monolithic system
-- Collaborated with cross-functional teams to deliver innovative solutions aligned with business objectives,
-  contributing to streamlined CI/CD pipelines.
-- Demonstrated technical proficiency across various tools, ensuring successful completion of critical projects
-  and enhancing system performance and security.
-
 ### Software Engineer, RMP Enterprise (Job board)
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -114,23 +114,6 @@ owner of StudyStream+ software engineering YouTube channel. Outgoing personality
   features.
 - Supported legacy code and successfully migrated RateMyPlacement from Apache to Nginx as part of maintenance efforts.
 - Deployed new releases and provided support for two WordPress blogs
-
-### Lead Web Developer, The Creation Lab (Digital Agency)
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-*Nov 2011 - Nov 2014*
-
-- Led a team of web developers, providing guidance and support to ensure successful project completion.
-- Successfully managed all aspects of multiple web projects, ensuring deadlines were met and customer satisfaction was
-  achieved.
-- Conducted client meetings to gather requirements and create tailored solutions that meet their needs.
-- Designed and developed custom websites using Concrete5 or bespoke PHP for complex builds, utilizing expert knowledge
-  in web-related tools and technologies
 
 ### Web Developer, Quotient Technologies (Retail)
 
@@ -148,6 +131,23 @@ owner of StudyStream+ software engineering YouTube channel. Outgoing personality
   project met exacting standards and exceeded client expectations.
 - Led on multiple internal projects, including developing client-facing websites and blogs using bespoke solutions and
   CMS platforms like WordPress
+
+### Lead Web Developer, The Creation Lab (Digital Agency)
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+*Nov 2011 - Nov 2014*
+
+- Led a team of web developers, providing guidance and support to ensure successful project completion.
+- Successfully managed all aspects of multiple web projects, ensuring deadlines were met and customer satisfaction was
+  achieved.
+- Conducted client meetings to gather requirements and create tailored solutions that meet their needs.
+- Designed and developed custom websites using Concrete5 or bespoke PHP for complex builds, utilizing expert knowledge
+  in web-related tools and technologies
 
 ## Projects
 
