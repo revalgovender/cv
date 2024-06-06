@@ -15,14 +15,14 @@ Owner of StudyStream+ software engineering YouTube channel.
 
 *Feb 2024 - May 2024 (3m), Hybrid*
 
-- Built new feature to allow users to, create multiple savings accounts, by integrating with Treasury Prime bank APIs
+- Built new feature to allow users to, create multiple savings accounts, by integrating with Treasury Prime bank APIs.
 - Built new feature to allow users to, close and reopen bank accounts, by integrating with KYC providers such as
-  IDI Core
-- Improved frontend performance by optimising monolith SQL queries
+  IDI Core.
+- Improved frontend performance by optimising monolith SQL queries.
 - Created charts in Grafana to monitor bank accounts by integrating with bank APIs such as WellsFargo, Evolve,
-  Silicon Valley Bank and Piermont
-- Wrote scripts to sync data between Treasury Prime and Wagestream to resolve customer banking data inaccuracies
-- Increased end-to-end test coverage of the US-facing API for critical endpoints
+  Silicon Valley Bank and Piermont.
+- Wrote scripts to sync data between Treasury Prime and Wagestream to resolve customer banking data inaccuracies.
+- Increased end-to-end test coverage of the US-facing API for critical endpoints.
 
 ### Software Engineer, GForces (Automotive)
 
@@ -52,15 +52,15 @@ Owner of StudyStream+ software engineering YouTube channel.
 
 *Feb 2019 - Feb 2023 (4y), Remote*
 
-- I have created several Python courses/videos on my YouTube channel, StudyStream+
+- I have created several Python courses/videos on my YouTube channel, StudyStream+.
 - My channel was a source of revenue through ads, course sales and sponsorships throughout this period
 - Most noticeable public course is
   a [GCSE Computer Science Python Course](https://www.youtube.com/watch?v=lv8Tl5lBJC0&t=2s) created for schools and
-  students which covers the entire GCSE Computer Science syllabus
-- The course has been shown in lessons and recommended by teachers in the UK to students as homework or exam preparation
-- I have also created other Python courses which have been sold exclusively to schools in the UK and South Africa
+  students which covers the entire GCSE Computer Science syllabus.
+- The course has been shown in lessons and recommended by teachers in the UK to students as homework or exam preparation.
+- I have also created other Python courses which have been sold exclusively to schools in the UK and South Africa.
 - The channel has gained over 6K subscribers, millions of views, earned thousands of pounds in revenue and helped
-  millions of software engineers and students
+  millions of software engineers and students.
 
 ## 👨‍💻 PHP and JavaScript Experience (7 years)
 
@@ -74,15 +74,15 @@ Owner of StudyStream+ software engineering YouTube channel.
 *Aug 2023 - Jan 2024 (5m), Hybrid*
 
 - Enhanced pricing breakdown for buyers and sellers by modifying Monolith APIs, allowing for regional and
-  buyer/seller-specific price calculations
+  buyer/seller-specific price calculations.
 - Improved performance of customer chat experience, by reducing latency of requests using RabbitMQ to send messages
-  between services asynchronously
+  between services asynchronously.
 - Contributed to the project, new fee structure for buyers/sellers, by adding and modifying the backend
-  endpoints exposed by the services within our scope
+  endpoints exposed by the services within our scope.
 - Refactored multiple Monolith APIs for better coding readability and performance, by reducing additional http requests,
   adding async calls and reducing endpoint cognitive complexity (reduced 3500+ to 1000+ lines of code).
 - Fixed numerous bugs across our scope, including resolving Resale Calculator errors, Customer Chat pricing
-  inconsistencies, Customer Photo Upload issues and more
+  inconsistencies, Customer Photo Upload issues and more.
 - Led a comprehensive documentation initiative, ensuring all services were thoroughly documented and engineering
   onboarding processes were streamlined.
 
