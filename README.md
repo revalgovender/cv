@@ -77,7 +77,7 @@ Owner of StudyStream+ software engineering YouTube channel.
   buyer/seller-specific price calculations
 - Improved performance of customer chat experience, by reducing latency of requests using RabbitMQ to send messages
   between services asynchronously
-- Contributed to the addition of new fee structure for buyers/sellers project, by adding and modifying the backend
+- Contributed to the project, new fee structure for buyers/sellers, by adding and modifying the backend
   endpoints exposed by the services within our scope
 - Refactored multiple Monolith APIs for better coding readability and performance, by reducing additional http requests,
   adding async calls and reducing endpoint cognitive complexity (reduced 3500+ to 1000+ lines of code).
