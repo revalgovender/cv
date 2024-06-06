@@ -19,7 +19,7 @@ Owner of StudyStream+ software engineering YouTube channel.
 - Built new feature to allow users to, close and reopen bank accounts, by integrating with KYC providers such as
   IDI Core
 - Improved frontend performance by optimising monolith SQL queries
-- Created charts in Grafana to monitor bank account balances by integrating with bank APIs such as WellsFargo, Evolve,
+- Created charts in Grafana to monitor bank accounts by integrating with bank APIs such as WellsFargo, Evolve,
   Silicon Valley Bank and Piermont
 - Wrote scripts to sync data between Treasury Prime and Wagestream to resolve customer banking data inaccuracies
 - Increased end-to-end test coverage of the US-facing API for critical endpoints
