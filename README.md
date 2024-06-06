@@ -73,13 +73,18 @@ Owner of StudyStream+ software engineering YouTube channel.
 
 *Aug 2023 - Jan 2024 (5m), Hybrid*
 
-- Implemented and optimised microservices in GO, TypeScript and PHP (Symfony)
-- Utilised tools such as Datadog, Kibana, Docker, and Kubernetes for of client monitoring and containerisation.
-- Supported and enhanced a legacy monolithic system
-- Collaborated with cross-functional teams to deliver innovative solutions aligned with business objectives,
-  contributing to streamlined CI/CD pipelines.
-- Demonstrated technical proficiency across various tools, ensuring successful completion of critical projects
-  and enhancing system performance and security.
+- Enhanced pricing breakdown for buyers and sellers by modifying Monolith APIs, allowing for regional and
+  buyer/seller-specific price calculations
+- Improved performance of customer chat experience, by reducing latency of requests using RabbitMQ to send messages
+  between services asynchronously
+- Contributed to the addition of new fee structure for buyers/sellers project, by adding and modifying the backend
+  endpoints exposed by the services within our scope
+- Refactored multiple Monolith APIs for better coding readability and performance, by reducing additional http requests,
+  adding async calls and reducing endpoint cognitive complexity (reduced 3500+ to 1000+ lines of code).
+- Fixed numerous bugs across our scope, including resolving Resale Calculator errors, Customer Chat pricing
+  inconsistencies, Customer Photo Upload issues and more
+- Led a comprehensive documentation initiative, ensuring all services were thoroughly documented and engineering
+  onboarding processes were streamlined.
 
 ### Senior Software Engineer, Made.com (E-commerce)
 
