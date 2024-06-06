@@ -96,14 +96,16 @@ Owner of StudyStream+ software engineering YouTube channel.
 
 *Sept 2019 - Nov 2022 (3y 2m), Hybrid*
 
-- Key contributor of the migration of a legacy system from Magento 1 to Magento 2 (2year project) to improve
-  performance and scalability.
-- Architected and designed the system and features for the new Magento 2 platform
-- Developed robust and scalable PHP code for this complex project, utilising Dockerised software in a service
-  oriented architecture
-- Collaborated with stakeholders, including product owners, UX designers, and QA Engineers to ensure
-  successful project delivery
-- Mentored colleagues in TDD methodologies to drive high-quality code and of client project outcomes.
+- Key contributor of the migration of a legacy system from Magento 1 to a greenfield, Magento 2 system to improve
+  performance and scalability. (2year project).
+- Architected and implemented the consuming of multiple complex events from EventStore using the Factory Pattern to make
+  handling of events more scalable and maintainable.
+- Implemented integrations such as PayPal, Klarna, S3, SQS on the Magento 2 platform to enable payments, file storage
+  and asynchronous processing and exposing the functionality to the frontend using GraphQL.
+- Improved engineer productivity and code quality by owning and implementing Githooks to perform code linting, static
+  analysis and SonarQube to drive code quality improvements.
+- Mentored other engineers in automated tests (unit, integration, end-to-end) and TDD methodologies to ensure high code
+  coverage on our systems.
 
 ### Software Engineer, RMP Enterprise (Job board)
 
