@@ -100,8 +100,8 @@ Owner of StudyStream+ software engineering YouTube channel.
   performance and scalability. (2year project).
 - Architected and implemented the consuming of complex events from EventStore using the Factory Pattern to make
   handling of events more scalable and maintainable.
-- Implemented integrations such as PayPal, Klarna, S3, SQS on the Magento 2 platform to enable payments, file storage
-  and asynchronous processing and exposing the functionality to the frontend using GraphQL.
+- Implemented integrations such as PayPal, Klarna, S3, SQS on the Magento 2 platform to enable payments, file storage,
+  asynchronous processing and exposed the functionality to the frontend using GraphQL.
 - Improved engineer productivity and code quality by owning and implementing Githooks to perform code linting, static
   analysis and SonarQube to drive code quality improvements.
 - Mentored other engineers in automated tests (unit, integration, end-to-end) and TDD methodologies to ensure high code
