@@ -72,7 +72,7 @@ Owner of StudyStream+ software engineering YouTube channel.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
-*Aug 2023 - Jan 2024 (5m), Hybrid*
+*Aug 2023 - Jan 2024 (6m), Hybrid*
 
 - Enhanced pricing breakdown for buyers and sellers by modifying Monolith APIs, allowing for regional and
   buyer/seller-specific price calculations.
