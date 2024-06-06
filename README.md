@@ -53,15 +53,14 @@ Owner of StudyStream+ software engineering YouTube channel.
 *Feb 2019 - Feb 2023 (4y), Remote*
 
 - I have created several Python courses/videos on my YouTube channel, StudyStream+
-- My channel was a source of revenue through ads and sponsorships throughout this period
-- Most noticeable course is a [GCSE Computer Science Python Course](https://www.youtube.com/watch?v=lv8Tl5lBJC0&t=2s)
-  created for schools and students which covers the entire GCSE Computer Science syllabus
+- My channel was a source of revenue through ads, course sales and sponsorships throughout this period
+- Most noticeable public course is
+  a [GCSE Computer Science Python Course](https://www.youtube.com/watch?v=lv8Tl5lBJC0&t=2s) created for schools and
+  students which covers the entire GCSE Computer Science syllabus
 - The course has been shown in lessons and recommended by teachers in the UK to students as homework or exam preparation
-- This is my largest side project, it has gained of 6K subscribers, millions of views, earned thousands of pounds in
-  revenue and helped millions of software engineers and students
 - I have also created other Python courses which have been sold exclusively to schools in the UK and South Africa
-- Working on StudyStream+ over the years has improved my communication skills, Python knowledge, mentoring ability and
-  business acumen
+- The channel has gained over 6K subscribers, millions of views, earned thousands of pounds in revenue and helped
+  millions of software engineers and students
 
 ## 👨‍💻 PHP and JavaScript Experience (7 years)
 
