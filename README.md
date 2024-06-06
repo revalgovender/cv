@@ -96,9 +96,9 @@ Owner of StudyStream+ software engineering YouTube channel.
 
 *Sept 2019 - Nov 2022 (3y 2m), Hybrid*
 
-- Key contributor of the migration of a legacy system from Magento 1 to a greenfield, Magento 2 system to improve
+- Key contributor of the migration of a legacy system from Magento 1 to a greenfield, Magento 2 system, to improve
   performance and scalability. (2year project).
-- Architected and implemented the consuming of multiple complex events from EventStore using the Factory Pattern to make
+- Architected and implemented the consuming of complex events from EventStore using the Factory Pattern to make
   handling of events more scalable and maintainable.
 - Implemented integrations such as PayPal, Klarna, S3, SQS on the Magento 2 platform to enable payments, file storage
   and asynchronous processing and exposing the functionality to the frontend using GraphQL.
