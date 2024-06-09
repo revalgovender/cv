@@ -4,6 +4,19 @@ An experienced Software Engineer with 12+ years commercial experience. Fluent in
 track record in architecting and engineering systems for companies such as Made.com, Jaguar/Land Rover and Global Radio.
 Owner of StudyStream+ software engineering YouTube channel.
 
+All projects table
+
+| Competency | Type          | Demonstrates knowledge of                                         | Link                                                                   |
+|------------|---------------|-------------------------------------------------------------------|------------------------------------------------------------------------|
+| Django     | Api Code Task | Django Rest Framework, API development, End-To-End and Unit tests | [Repo](https://github.com/revalgovender/django-api-exercise/tree/main) | 
+
+## Projects
+
+1. [Python Projects Showcase](https://github.com/revalgovender/python-projects-showcase)
+2. [PHP Projects Showcase](https://github.com/revalgovender/php-projects-showcase)
+3. [StudyStream+ (YouTube Channel)](https://www.youtube.com/channel/UCrj5u3y1gT93MaMqCpO1LPg)
+4. [Finance Projects Showcase](https://github.com/revalgovender/finance-projects-showcase)
+
 ## 🐍 Python Experience (5 years)
 
 ### Senior Software Engineer, Wagestream (Fintech)
@@ -157,10 +170,3 @@ Owner of StudyStream+ software engineering YouTube channel.
 - Conducted client meetings to gather requirements and create tailored solutions that meet their needs.
 - Designed and developed custom websites using Concrete5 or bespoke PHP for complex builds, utilizing expert knowledge
   in web-related tools and technologies
-
-## Projects
-
-1. [Python Projects Showcase](https://github.com/revalgovender/python-projects-showcase)
-2. [PHP Projects Showcase](https://github.com/revalgovender/php-projects-showcase)
-3. [StudyStream+ (YouTube Channel)](https://www.youtube.com/channel/UCrj5u3y1gT93MaMqCpO1LPg)
-4. [Finance Projects Showcase](https://github.com/revalgovender/finance-projects-showcase)
