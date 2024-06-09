@@ -4,7 +4,7 @@ An experienced Software Engineer with 12+ years commercial experience. Fluent in
 track record in architecting and engineering systems for companies such as Made.com, Jaguar/Land Rover and Global Radio.
 Owner of StudyStream+ software engineering YouTube channel.
 
-## Projects
+## Projects relative to this job
 
 | Technology | Name                            | Knowledge demonstrated                                            | Link                                                                                        |
 |------------|---------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
