@@ -10,7 +10,7 @@ Owner of StudyStream+ software engineering YouTube channel.
 |------------|---------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | Django     | Api Code Task                   | Django Rest Framework, API development, End-To-End and Unit tests | [View](https://github.com/revalgovender/django-api-exercise/tree/main)                      |
 | Python     | GSCE Full Syllabus Video Course | Python language, Teaching Ability, Communication Skills           | [View](https://www.youtube.com/watch?v=lv8Tl5lBJC0&list=PLrIm-p2rpV0Hczso9dnu_sAJucaaAD_Hc) |
-| Python     | People Matching                 | Low cognitive complexity, Python language, Problem solving        | [View](https://github.com/revalgovender/people-matching-python/blob/main/main.py)           |
+| Python     | People Matching                 | Low Cognitive Complexity, Python language, Problem solving        | [View](https://github.com/revalgovender/people-matching-python/blob/main/main.py)           |
 
 [All projects listed here](#all-projects-showcases)
 
