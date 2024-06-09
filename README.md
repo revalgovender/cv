@@ -6,9 +6,13 @@ Owner of StudyStream+ software engineering YouTube channel.
 
 ## Projects
 
-| Technology | Name          | Knowledge demonstrated                                            | Link                                                                   |
-|------------|---------------|-------------------------------------------------------------------|------------------------------------------------------------------------|
-| Django     | Api Code Task | Django Rest Framework, API development, End-To-End and Unit tests | [Repo](https://github.com/revalgovender/django-api-exercise/tree/main) | 
+| Technology | Name                            | Knowledge demonstrated                                            | Link                                                                                        |
+|------------|---------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Django     | Api Code Task                   | Django Rest Framework, API development, End-To-End and Unit tests | [View](https://github.com/revalgovender/django-api-exercise/tree/main)                      |
+| Python     | GSCE Full Syllabus Video Course | Python language, Teaching Ability, Communication Skills           | [View](https://www.youtube.com/watch?v=lv8Tl5lBJC0&list=PLrIm-p2rpV0Hczso9dnu_sAJucaaAD_Hc) |
+| Python     | People Matching                 | Low cognitive complexity, Python language, Problem solving        | [View](https://github.com/revalgovender/people-matching-python/blob/main/main.py)           |
+
+[All projects listed here](#all-projects-showcases)
 
 ## 🐍 Python Experience (5 years)
 
@@ -164,7 +168,7 @@ Owner of StudyStream+ software engineering YouTube channel.
 - Designed and developed custom websites using Concrete5 or bespoke PHP for complex builds, utilizing expert knowledge
   in web-related tools and technologies
 
-## All Project Showcases
+## All Projects Showcases
 
 1. [Python Projects Showcase](https://github.com/revalgovender/python-projects-showcase)
 2. [PHP Projects Showcase](https://github.com/revalgovender/php-projects-showcase)
